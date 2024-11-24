@@ -12,7 +12,7 @@ H2 Database: An in-memory, lightweight relational database for testing purposes 
 Spring Boot DevTools: (Optional) To enable live reloading and easier development.
 Docker.
 
-Pull this Docker Image and test the solution. Data does not survive an application restart. Make a POST request to the endpoint below to populate the data, and test the Points API using the id returned from the Process Receipts API.
+Pull this Docker Image and test the solution. Data does not survive an application restart. Make a POST request to the endpoint below using Postman or a similar tool to populate the data, and test the Points API using the id returned from the Process Receipts API.
 
 Endpoint: Process Receipts
 Path: /receipts/process
